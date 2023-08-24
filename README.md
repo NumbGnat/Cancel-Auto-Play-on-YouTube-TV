@@ -5,7 +5,7 @@ A Flo is a proprietary binary format, so code can't be managed in GitHub. You ca
 
 https://llamalab.com/automate/community/flows/44517
 
-###. Details
+### Details
 
 YouTube TV likes to automatically play the next episode unless you press `Cancel`. So when you fall asleep watching TV, several episodes play automatically, marking them as, "_Watched_". This Flo will help ensure only the current episode is marked, "_Watched_".
 
