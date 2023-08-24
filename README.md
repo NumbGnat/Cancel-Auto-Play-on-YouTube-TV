@@ -1,7 +1,7 @@
 ## Cancel-Auto-Play-on-YouTube-TV
 An **_Automate_** Flo that automatically presses the `Cancel` button, when YouTube TV tries to Auto-Play the next episode of what you're watching.
 
-A Flo is a proprietary binary format, so code can't be managed in GitHub. You can only view the Flo in the *_Automate_* app. Once installed, the Flo can be found in the Automate community here... 
+A Flo is a proprietary binary format, so code can't be managed in GitHub. You can only view the Flo in the **_Automate_** app. Once installed, the Flo can be found in the Automate community here... 
 
 https://llamalab.com/automate/community/flows/44517
 
